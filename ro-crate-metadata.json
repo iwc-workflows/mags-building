@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-04-29T13:10:50.765514",
+            "datePublished": "2025-06-02T14:33:47.994090",
             "hasPart": [
                 {
                     "@id": "MAGs-generation.ga"
@@ -73,10 +73,10 @@
                     "@id": "https://orcid.org/0000-0002-3602-7884"
                 },
                 {
-                    "@id": "#856b41c2-cd53-4c18-be6e-4125bc3f8bcf"
+                    "@id": "#865a0526-9ba3-4068-bfd1-3c9846cc5902"
                 },
                 {
-                    "@id": "#f6233c54-508c-4d2c-b798-21c78d93e338"
+                    "@id": "#f7873622-85e9-4bec-85fa-eaf60a409029"
                 }
             ],
             "name": "mags-building/main",
@@ -84,7 +84,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mags-building",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -114,12 +114,12 @@
             "name": "Mina Hojat Ansari"
         },
         {
-            "@id": "#856b41c2-cd53-4c18-be6e-4125bc3f8bcf",
+            "@id": "#865a0526-9ba3-4068-bfd1-3c9846cc5902",
             "@type": "Person",
             "name": "Patrick B\u00fchler"
         },
         {
-            "@id": "#f6233c54-508c-4d2c-b798-21c78d93e338",
+            "@id": "#f7873622-85e9-4bec-85fa-eaf60a409029",
             "@type": "Person",
             "name": "Santino Faack"
         },
@@ -170,7 +170,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.29"
+            "engineVersion": ">=0.75.30"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
