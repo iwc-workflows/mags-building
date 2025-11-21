@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-06-21T13:45:02.302634",
+            "datePublished": "2025-11-21T13:50:15.919960",
             "hasPart": [
                 {
                     "@id": "MAGs-generation.ga"
@@ -73,10 +73,13 @@
                     "@id": "https://orcid.org/0000-0002-3602-7884"
                 },
                 {
-                    "@id": "#9ff72bdb-7301-4bd3-b446-26d985927a56"
+                    "@id": "#f3e77617-488f-40c4-9c3d-225322a0032f"
                 },
                 {
-                    "@id": "#efed399a-ee60-4acc-8e43-d2445bc93370"
+                    "@id": "https://orcid.org/0009-0004-0382-2023"
+                },
+                {
+                    "@id": "https://orcid.org/0000-0003-3813-0823"
                 }
             ],
             "name": "mags-building/main",
@@ -84,7 +87,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mags-building",
-            "version": "0.3"
+            "version": "0.4"
         },
         {
             "@id": "#galaxy",
@@ -114,14 +117,19 @@
             "name": "Mina Hojat Ansari"
         },
         {
-            "@id": "#9ff72bdb-7301-4bd3-b446-26d985927a56",
+            "@id": "#f3e77617-488f-40c4-9c3d-225322a0032f",
             "@type": "Person",
             "name": "Patrick B\u00fchler"
         },
         {
-            "@id": "#efed399a-ee60-4acc-8e43-d2445bc93370",
+            "@id": "https://orcid.org/0009-0004-0382-2023",
             "@type": "Person",
             "name": "Santino Faack"
+        },
+        {
+            "@id": "https://orcid.org/0000-0003-3813-0823",
+            "@type": "Person",
+            "name": "Anna Syme"
         },
         {
             "@id": "README.md",
@@ -170,7 +178,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.30"
+            "engineVersion": ">=0.75.33"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
