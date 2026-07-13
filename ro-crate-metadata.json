@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2025-11-21T13:50:15.919960",
+            "datePublished": "2026-07-13T08:19:42.597585",
             "hasPart": [
                 {
                     "@id": "MAGs-generation.ga"
@@ -73,7 +73,7 @@
                     "@id": "https://orcid.org/0000-0002-3602-7884"
                 },
                 {
-                    "@id": "#f3e77617-488f-40c4-9c3d-225322a0032f"
+                    "@id": "#eb4c6271-16d6-4a09-a664-24a6143f3367"
                 },
                 {
                     "@id": "https://orcid.org/0009-0004-0382-2023"
@@ -87,7 +87,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/mags-building",
-            "version": "0.4"
+            "version": "0.5"
         },
         {
             "@id": "#galaxy",
@@ -117,7 +117,7 @@
             "name": "Mina Hojat Ansari"
         },
         {
-            "@id": "#f3e77617-488f-40c4-9c3d-225322a0032f",
+            "@id": "#eb4c6271-16d6-4a09-a664-24a6143f3367",
             "@type": "Person",
             "name": "Patrick B\u00fchler"
         },
@@ -178,7 +178,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.33"
+            "engineVersion": ">=0.75.44"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
